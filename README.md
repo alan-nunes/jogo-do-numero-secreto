@@ -1,0 +1,1 @@
+#Fiz o curso de lógica de programção em JavaScript, e tive a oportunidade de vencer todas as barreiras e mergulhar na programação. Aprendi como preparar o ambiente de desenvolvimento até a criação de um jogo completo com diferentes interações.
